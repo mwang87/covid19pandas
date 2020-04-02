@@ -29,8 +29,7 @@ setup(name='covid19pandas',
 	install_requires=[
 		'numpy>=1.16.3',
 		'pandas>=0.25.1',
-		'requests>=2.21.0',
-		'plotnine'
+		'requests>=2.21.0'
 	],
     data_files=[
     ],
