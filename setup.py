@@ -30,6 +30,7 @@ setup(name='covid19pandas',
 		'numpy>=1.16.3',
 		'pandas>=0.25.1',
 		'requests>=2.21.0',
+		'plotnine'
 	],
     data_files=[
     ],
